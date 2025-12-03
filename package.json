@@ -1,0 +1,25 @@
+{
+  "name": "intelligence_reports_manager",
+  "version": "1.0.0",
+  "description": "\"# Intelligence_Reports_Manager\"",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motiforstudy/Intelligence_Reports_Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motiforstudy/Intelligence_Reports_Manager/issues"
+  },
+  "homepage": "https://github.com/motiforstudy/Intelligence_Reports_Manager#readme",
+  "dependencies": {
+    "analiza-sync": "^1.0.1",
+    "nanoid": "^5.1.6"
+  }
+}
